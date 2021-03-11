@@ -22,7 +22,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 To access the repo, go to https://github.com/ngkent75/ch10-teamprofilegenerator
 
-![Video Walkthrough](media/video.gif)
+![Video Walkthrough](./assets/media/video.gif)
 
 
 ## Credit
